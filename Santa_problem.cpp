@@ -17,7 +17,7 @@ Constraints
  5<H<200 
 30<W<120, 
 without units 2<T<12, without units 
-
+ 
 */
 
 #include<iostream>

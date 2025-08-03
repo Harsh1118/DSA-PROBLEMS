@@ -18,7 +18,7 @@ class Solution {
 
         // Type below cout<<"Hello World";
         // Radhe-Radhe
-        cout<<"Hello World" ;
+        cout<<"Hello World";
         // cout will output to console
     }
 };

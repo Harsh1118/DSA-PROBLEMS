@@ -13,7 +13,7 @@ Output: [40]
 Explanation: When an array is sorted in increasing order, only the rightmost element is leader.
 Input: arr = [30, 10, 10, 5]
 Output: [30, 10, 10, 5]
-Explanation: When an array is sorted in non-increasing order, all elements are leaders.
+Explanation: When an array is sorted in non-increasing order, all elements are leaders. 
 */
 
 #include<iostream>
